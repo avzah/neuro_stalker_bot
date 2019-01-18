@@ -1,5 +1,5 @@
 import requests
-import socks
+#import socks
 import socket
 from time import sleep
 import datetime
