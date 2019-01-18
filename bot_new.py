@@ -4,8 +4,8 @@ import socket
 from time import sleep
 import datetime
 
-socks.set_default_proxy(socks.SOCKS5, "localhost", 9150)
-socket.socket = socks.socksocket
+#socks.set_default_proxy(socks.SOCKS5, "localhost", 9150)
+#socket.socket = socks.socksocket
 
 #url = "https://api.telegram.org/bot714655876:AAFJibZKeyeiJkpMnlioP5Y1Av2LgYUig_A/"
 class BotHandler:
